@@ -447,7 +447,7 @@ template {
   text-transform: capitalize; }
 
 #top {
-  background: #17d8c2; }
+  background: #5ad849; }
 
 .top__item {
   width: 100%;
@@ -677,7 +677,7 @@ template {
     width: 60%;
     background: #f1f1f2; }
     .team__item__description__name {
-      color: #F3D328;
+      color: #5ad849;
       font-weight: 600;
       font-size: 1.15em; }
     .team__item__description__info {
